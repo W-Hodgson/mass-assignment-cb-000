@@ -1,3 +1,5 @@
 class Person
-  initialize(hash)
+  def initialize(hash)
+
+
 end
