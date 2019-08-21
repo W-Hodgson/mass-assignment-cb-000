@@ -1,6 +1,6 @@
 class Person
 
-  def initialize(hash)
-    
+  def initialize(attributes)
+    @name = attributes.name
   end
 end
